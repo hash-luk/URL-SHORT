@@ -7,7 +7,7 @@
 <br />
 
 
-<div style="display: flex; justify-content: space-evenly;">
+<div style="display: flex; justify-content: space-evenly; flex-direction: row;">
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
  
@@ -53,7 +53,7 @@ O projeto foi desenvolvido utilizando algumas bibliotecas e frameworks básicos 
 
 <br />
 
-<img src="./assets/projeto.png">
+<img src="./public/assets/projeto.png">
 
 
 <br />
