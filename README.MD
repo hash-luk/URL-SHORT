@@ -61,7 +61,7 @@ O projeto foi desenvolvido utilizando algumas bibliotecas e frameworks básicos 
 
 ## Licença 📝
 
-Este projeto utiliza a licença [MIT]()
+Este projeto utiliza a licença [MIT](https://github.com/hash-luk/URL-SHORT/blob/main/LICENSE)
 
 <br />
 
